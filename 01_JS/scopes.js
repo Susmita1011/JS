@@ -41,3 +41,31 @@ const addTwo = function(num){  // function declared as literal
     return num+2
 }
 //addTwo(6) -> 8
+// ---------------> Arrow Function <------------------
+
+/*
+this --> used to refer current context this.var anme
+5.35
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
