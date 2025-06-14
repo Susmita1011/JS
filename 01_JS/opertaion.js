@@ -43,6 +43,13 @@ console.log(game);
 // console.log(null==undefined);// true
 
 
+// === strict check -> it checks value and also its data type
+
+console.log("2" == 2); // true 
+console.log("2" === 2); // false
+
+// DO NOT reply on implcit conversion of JS as it can be inconsistent. Prefer explicit conversions mostly
+
 
 
 
