@@ -40,6 +40,7 @@ console.log(game);
 102
 */
 
+// console.log(null==undefined);// true
 
 
 
